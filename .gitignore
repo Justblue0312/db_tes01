@@ -1,0 +1,6 @@
+# Environment configuration
+.idea
+/.vscode
+/env
+/__pycache__
+__pycache__
